@@ -1,0 +1,8 @@
+console.log("Name: Uttam Ghosh")
+console.log("School name: Petbindhi D.K.M High School(H.S)")
+console.log("Grade: A")
+console.log("Section: A")
+console.log("Roll No: 6")
+console.log("Geography: 83")
+console.log("English: 68")
+console.log("Nutrition: 84")
